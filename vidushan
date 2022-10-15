@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<title>
+			Welcome page
+		</title>
+	</head>
+	<body style="background-image:url('vidushan_prabash_Traditional_Japanese_culture_mixed_with_future_368ae4ff-fc14-4eb0-aa91-2afa8b11a69b.png');">
+		<a1 style="align:center; color:dark; margin:400px; font-family:verdana; font-size:40px;"><b>
+			Welcome to the BornIdea</b>
+		</a1>
+		<a2 >
+		<h1>
+		Ideathon
+		</h1>
+		<table border=1px>
+			<tr>
+				<th>
+				In.No.
+				</th>
+				<th>
+				Type
+				</th>
+				<th>
+				Problem
+				</th>
+				<th>
+				Solutions
+				</th>
+				<th>
+				Idea
+				</th>
+			</tr>
+			<tr>
+				<td>
+				0001
+				</td>
+				<td>
+				Education
+				</td>
+				<td>
+				Couldn't study in pisycal class due to the covid-19
+				</td>
+				<td>
+				Study online
+				</td>
+				<td>
+				Put on face-mask and use hand-senitiser compulsory, keep distance with each others
+				</td>
+			</tr>
+		</table>
+		</a2>
+	</body>
+</html>
